@@ -7,3 +7,6 @@ To use the app
 Step 1) downloads all the files in the folder 
 2) download the above required libraries
 3)in the app.py terminal write "streamlit run app.py " then click on the clickable link
+4) enter your desired values for the variables 
+5) Hit enter 
+6) The predicted price will be displayed 
